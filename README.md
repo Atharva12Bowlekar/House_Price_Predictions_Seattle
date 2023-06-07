@@ -3,6 +3,9 @@
 ## Introduction
 The provided Jupyter Notebook, titled "house_prices_usa.ipynb," offers an in-depth exploration of a machine learning project aimed at predicting house prices in Seattle, USA. This analysis delves into the realm of data preprocessing, exploratory data analysis, feature engineering, and model training and evaluation. By following this comprehensive notebook, readers gain insights into the intricacies of predicting housing prices and the steps involved in developing an accurate prediction model.
 
+## Dataset-Link
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download
+
 ## Data Exploration and Analysis
 The notebook initiates with an essential step: loading the necessary libraries and importing the dataset. While the specific dataset is not included in the repository, the notebook assumes that readers have acquired it separately. With the dataset in hand, the analysis delves into a comprehensive exploration, enabling readers to comprehend the available features and their relationship with the target variable: house prices. Descriptive statistics, data visualization techniques, and correlation analysis collectively facilitate understanding the dataset's characteristics and provide valuable insights.
 
